@@ -16,5 +16,3 @@ Computer Science student at [Chinese University of Hong Kong](https://www.cuhk.e
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=gra-ch&show_icons=true&theme=nord&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/gra-ch)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gra-ch&theme=nord&hide_border=true)](https://github.com/gra-ch)
-
-[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gra-ch&hide_border=true&theme=nord&langs_count=6&hide=jupyter%20notebook,tex,css,php)](https://github.com/gra-ch)
