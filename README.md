@@ -13,6 +13,6 @@ Computer Science student at [Chinese University of Hong Kong](https://www.cuhk.e
 - 🔥 I’m looking to collaborate on **Open Source** and **Video Game** projects
 - 💬 I'm mostly active within the **Swift**, **Node.JS** and **Unity 3D** communities
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=gra-ch&show_icons=true&theme=nord&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/gra-ch)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=gra-ch&show_icons=true&theme=nord&icon_color=81A1C1&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/gra-ch)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gra-ch&theme=nord&hide_border=true)](https://github.com/gra-ch)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gra-ch&theme=nord&hide_border=true&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&currStreakLabel=81A1C1)](https://github.com/gra-ch)
