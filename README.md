@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-skyblue)
 
-[Computer Science](https://www.cse.cuhk.edu.hk/) student at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/). Full-stack developer with passion for IoT, app and games. Fascinated by everything that's CS related. Proudly from [Hong Kong](https://goo.gl/maps/tUM4JLr2wonrDXJHA) 🇭🇰
+[Computer Science](https://www.cse.cuhk.edu.hk/) student at [Chinese University of Hong Kong](https://www.cuhk.edu.hk/) with passion for IoT, app and games. Fascinated by everything that's CS related. Proudly from [Hong Kong](https://goo.gl/maps/tUM4JLr2wonrDXJHA) 🇭🇰
 
 - 🏫 I’m currently studying **Computer Science** at CUHK
 - 💻 I’m currently learning **Unity** and more **C++**
